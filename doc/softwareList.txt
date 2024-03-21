@@ -1,0 +1,56 @@
+1.sourceTree. 
+	git GUI 桌面软件 (Simplicity and power in a beautiful Git GUI）
+	链接：https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.17.exe
+2.notepad++
+	好用的文本编辑器
+	https://notepad-plus-plus.org/downloads/
+3.vscode
+	https://code.visualstudio.com/
+4.mdk5
+	官网下载：
+	https://armkeil.blob.core.windows.net/eval/MDK530.EXE
+
+	论坛镜像下载：
+	http://www.armbbs.cn/forum.php?mod=viewthread&tid=96992
+
+	百度云下载：
+	https://pan.baidu.com/s/1AEnujwREtud1-UwUPkTxCg 提取码：7oa8
+
+	腾讯云下载：
+	https://share.weiyun.com/5bXLvm2 密码：7de75z
+5.vota+
+	官网
+	https://www.vofa.plus/downloads/?v=10/24/2023
+6.everyThing
+	官网
+	https://www.voidtools.com/zh-cn/downloads/
+7.utools
+	官网
+	https://u.tools/
+8.snipaste
+	官网
+	https://zh.snipaste.com/download.html
+9.wireshark
+	https://www.xitongzhijia.net/soft/202168.html
+	wireshark使用指导
+	https://blog.csdn.net/zzwwhhpp/article/details/113077747
+10.Beyond compare 3
+	百度网盘
+	链接：https://pan.baidu.com/s/1KAlED-xArRuDZMvvJInuag?pwd=3lk5 
+	提取码：3lk5
+11.source Insight 4.0
+	百度云盘
+	链接：https://pan.baidu.com/s/1z5WrcG_T0j0pdXK8eOAJ6A?pwd=5psl 
+	提取码：5psl
+12.IDM
+	百度云盘
+	链接：https://pan.baidu.com/s/1fyeh9uvm7zIB6HPSF1HPDw?pwd=6zrg 
+	提取码：6zrg
+13.Git
+	https://git-scm.com/downloads
+14.pdf
+	https://www.foxitsoftware.cn/downloads/
+15.bandzip
+	https://www.bandisoft.com/bandizip/
+16.火绒安全
+	https://www.huorong.cn/
